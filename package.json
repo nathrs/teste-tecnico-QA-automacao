@@ -1,17 +1,14 @@
 {
-  "name": "teste-tecnico-qa-automacao",
+  "name": "automacaomevo",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "playwright test --ui"
-  },
+  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
-    "@playwright/test": "^1.52.0",
-    "@types/node": "^22.15.3",
-    "playwright": "^1.52.0"
+    "@playwright/test": "^1.54.2",
+    "@types/node": "^24.3.0"
   }
 }
